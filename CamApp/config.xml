@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<IPCam Index="6" />
+	<Web Index="7" />
+	<MPG Name="Mov/1.mp4"/>
+	<MPG Name="Mov/2.mp4"/>
+	<MPG Name="Mov/3.mp4"/>		
+</root>
